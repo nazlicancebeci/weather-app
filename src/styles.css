@@ -4,7 +4,7 @@ body {
 }
 .container {
   max-width: 600px;
-  margin: 40px auto;
+  margin: 40px 40px 10px 370px;
   padding: 20px 40px;
   background-color: #eeeeee;
   border-radius: 10px;
