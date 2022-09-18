@@ -64,6 +64,9 @@ ul {
   font-weight: 500;
 }
 .footer {
-  text-align: center;
-  font-size: small;
+  margin-left: 375px;
+  font-size: 10px;
+}
+.open-source {
+  color: hsl(234, 92%, 30%);
 }
