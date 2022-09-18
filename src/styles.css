@@ -59,8 +59,11 @@ ul {
 .tab-2 {
   margin-right: 10px;
 }
-.unit  {
+.unit {
   font-size: 16px;
   font-weight: 500;
 }
-
+.footer {
+  text-align: center;
+  font-size: small;
+}
